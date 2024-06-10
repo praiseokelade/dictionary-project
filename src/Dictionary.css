@@ -1,0 +1,9 @@
+form {
+  text-align: center;
+  margin: 30px 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+input {
+  margin: 0 5px;
+}
